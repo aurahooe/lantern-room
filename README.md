@@ -1,2 +1,3 @@
-# lantern-room
-A living room on the web. New hour, new light.
+# Lantern Room
+
+A small public room that changes every hour.
